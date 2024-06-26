@@ -19,4 +19,5 @@ yew = "0.21.0"
 name = "scatter"
 
 [dev_dependencies.yew]
+version = "0.21.0"
 features = ["csr"]
